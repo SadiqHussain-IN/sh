@@ -1,0 +1,26 @@
+body{
+  background-color: #012169;
+  text-align: center;
+}
+
+.Parent{
+  background-color: #008edb;
+  position: relative;
+  padding: 10% 10%;
+}
+
+h1{
+  margin: 0em auto;
+}
+
+.img-top{
+  position: absolute;
+  right: 400px;
+  top: 60px;
+    }
+
+.img-bottom{
+position: absolute;
+left: 400px;
+bottom: auto;
+}
